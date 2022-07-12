@@ -1,1 +1,1 @@
-# WikipediaClone
+# Wikipedia-Clone
